@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+Pillow
+openai
+tensorflow
+dotenv
+openai-whisper
+sounddevice
